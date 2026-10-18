@@ -1,0 +1,8 @@
+"Reference","Value","Footprint","QUANTITY"
+"CAN1_a1,CAN1_b1,CAN1_c1,CAN2_a1,CAN2_b1","Conn_01x02","Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal","5"
+"D1","LED","LED_THT:LED_D3.0mm","1"
+"GAME_MODULE1,GAME_MODULE2","Conn_01x04","User:JST_PA_B04B-PASK_1x04_P2.00mm_Vertical","2"
+"R1,R2","120","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal","2"
+"R3","10k","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal","1"
+"Vin1,YawMotor1","Conn_01x06","Connector_JST:JST_PH_S6B-PH-K_1x06_P2.00mm_Horizontal","2"
+"Vout1-Vout3","Conn_01x02","Connector_AMASS:AMASS_XT30PW-F_1x02_P2.50mm_Horizontal","3"
